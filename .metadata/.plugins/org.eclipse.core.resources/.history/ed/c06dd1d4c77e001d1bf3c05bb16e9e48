@@ -1,0 +1,15 @@
+package Algorithm;
+
+public class Insertionsort {
+
+	public static void main(String[] args) {
+	int a[]= {34,56,12,13,23,43,24};
+	insertionSort(a);
+	}
+
+	private static void insertionSort(int[] a) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

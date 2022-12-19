@@ -1,0 +1,15 @@
+
+public class ReverseNumber {
+
+	public static void main(String[] args) {
+	int num = 363;
+	int temp = num;
+	while(temp > 0) {
+	int r = temp % 10;
+	temp = r * 10 + temp;
+	temp = temp / 10;
+	System.out.print(temp + " ");
+	}
+	}
+
+}
