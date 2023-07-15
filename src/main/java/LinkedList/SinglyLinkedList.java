@@ -121,7 +121,7 @@ public class SinglyLinkedList {
         sl.deleteAtFirst();
         sl.display();
         System.out.println("Delete from end position.");
-        sl.deleteFromEnd();
+        //sl.deleteFromEnd();
         sl.display();
     }
 
