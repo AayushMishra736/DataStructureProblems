@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8207f885-c59c-4dfe-b2bd-3c420aadb8c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic25Algorithm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic25Algorithm/Mergesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic25Algorithm/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic25Algorithm/insertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/CountTheSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Cyclicallyrotatetarraybyone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/OccurenceOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/findIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/firstNonReapeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practise/firstRepeatingElementInAnInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Reversearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Reversearray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/peakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/peakElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +49,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Personal/DataStructureProblems&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reversearray">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic25Algorithm.BubbleSort" />
+  <component name="RunManager" selected="Application.firstNonReapeatingElement">
+    <configuration name="DuplicateInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.DuplicateInAnArray" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic25Algorithm.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mergesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic25Algorithm.Mergesort" />
+    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.Quicksort" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic25Algorithm.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reversearray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Reversearray" />
+    <configuration name="findIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.findIntersection" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic25Algorithm.SelectionSort" />
+    <configuration name="firstNonReapeatingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.firstNonReapeatingElement" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic25Algorithm.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="peakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.peakElement" />
+    <configuration name="firstRepeatingElementInAnInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise.firstRepeatingElementInAnInteger" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Reversearray" />
-        <item itemvalue="Application.peakElement" />
-        <item itemvalue="Application.Mergesort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.firstNonReapeatingElement" />
+        <item itemvalue="Application.firstRepeatingElementInAnInteger" />
+        <item itemvalue="Application.findIntersection" />
+        <item itemvalue="Application.Quicksort" />
+        <item itemvalue="Application.DuplicateInAnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -138,8 +141,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689039184643</updated>
+      <workItem from="1708136655479" duration="9209000" />
+      <workItem from="1708155616534" duration="2530000" />
+      <workItem from="1708179503093" duration="2208000" />
+      <workItem from="1708223191482" duration="5435000" />
+      <workItem from="1708308325760" duration="3363000" />
+      <workItem from="1708330368748" duration="595000" />
+      <workItem from="1708355594774" duration="6244000" />
+      <workItem from="1708448634966" duration="3529000" />
+      <workItem from="1708566132158" duration="4506000" />
+      <workItem from="1709422523764" duration="1844000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -189,6 +205,55 @@
           <url>file://$PROJECT_DIR$/src/main/java/Basic25Algorithm/Mergesort.java</url>
           <line>34</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/Example1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/CountTheSubArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/Quicksort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/Quicksort.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/findIntersection.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/firstRepeatingElementInAnInteger.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/firstRepeatingElementInAnInteger.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Practise/firstNonReapeatingElement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Basic25Algorithm/Binarysearch.java</url>
+          <line>30</line>
+          <properties class="Basic25Algorithm.Binarysearch" method="iterativeSearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
